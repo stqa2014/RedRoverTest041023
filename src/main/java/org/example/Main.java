@@ -6,6 +6,7 @@ public class Main {
         System.out.println("My new file.");
         System.out.println("One more option.");
         Test_2.print();
+        Test_2.print();
 
     }
 }
